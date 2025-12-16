@@ -1,0 +1,18 @@
+From: procurement@epcinfra.com
+To: sales@oemvendor.com
+Subject: Tender Invitation – LT Power Cables
+
+Dear Vendor,
+
+We invite you to participate in the following tender:
+
+RFP ID: EPC-EMAIL-014
+Issuing Authority: EPC Infra Projects Ltd
+Category: LT Power Cables
+Due Date: 10-06-2026
+
+Please visit the EPC procurement portal for detailed RFP documents and submission instructions.
+
+Regards,
+Procurement Team
+EPC Infra Projects Ltd
